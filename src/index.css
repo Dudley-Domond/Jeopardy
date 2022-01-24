@@ -3,6 +3,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/on-the-heels-of-the-iconic-tournament-of-champions-jeopardy-news-photo-1618590386.");
+  background-size: cover;
+  background-repeat: no repeat;
 }
 
 code {
